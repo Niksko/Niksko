@@ -96,4 +96,4 @@ My 3D printing is pretty rusty, but it's something I've tinkered with in the pas
 
 I like taking photos, though I'm not particularly good at it, and can never seem to get around to editing them.
 
-I have a cute black and white tuxedo cat name Sofia who I love very much ❤️
+I have a cute black and white tuxedo cat named Sofia who I love very much ❤️
