@@ -12,7 +12,7 @@ I'm Nik, a software developer from Melbourne, Australia.
 
 ## What I'm working on
 
-I'm currently serving as a Principal Developer Advocate at SEEK, in the Developer Productivity team.
+I'm currently serving as a Principal Developer Advocate in the Developer Productivity team at SEEK.
 We're working to make developers at SEEK more productive, which means we care about products like:
 
 - CI/CD pipelines
