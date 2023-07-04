@@ -12,17 +12,14 @@ I'm Nik, a software developer from Melbourne, Australia.
 
 ## What I'm working on
 
-I'm currently serving as a Principal Developer Advocate in the Developer Productivity team at SEEK.
-We're working to make developers at SEEK more productive, which means we care about products like:
+I'm currently working as a senior staff engineer within the Engineering Platforms group at SEEK.
+We're working on a new continuous delivery platform to make developers at SEEK more efficient, and
+to make our services more secure, more resilient and cheaper.
 
-- CI/CD pipelines
-- how we deploy containers
-- how developers interact with source code
-- how developers interact with our technology platform day-to-day
-
-Right now I'm spending a lot of time laying the foundations for a product-based approach to how we work.
-I'm also interested in how we make sure that our (internal) customers are at the centre of the work we do.
-I'm getting more and more interested in remote work practices, which prompted the creation of this page!
+I'm spending less time writing code lately, and a lot more time acting as a technical product manager
+for our platform.
+It's an interesting new challenge, I'm learning a lot about what it means to be a product manager, and
+I'm really enjoying it!
 
 ## How I like to work
 
@@ -38,9 +35,9 @@ But as I said above, I'm trying to work more asynchronously, so this info about 
 over time.
 
 Earlier in my career I hated any form of planning.
-I'm slowly coming around.
-But I still often default to 'lets just build something barebones and iterate on it' over 'lets have lots of meetings
-and figure this out perfectly before we do anything'.
+Now planning is a lot of what I do.
+I still like to keep things lightweight, but I'm beginning to understand how too little planning and communication
+can actually be far far worse than too much planning and communication.
 
 I often have strong opinions, but they're loosley held.
 I believe that being able to quickly change your mind in the face of new information is a virtue, and I tend to change
