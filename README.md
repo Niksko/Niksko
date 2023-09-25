@@ -5,8 +5,8 @@ I'm Nik, a software developer from Melbourne, Australia.
 ## General info
 
 - 🧔 Pronouns: he/him
-- 🌐 Website: https://skouf.com (needs an overhaul, it's in the works, don't judge)
-- 📰 Blog: https://blog.skouf.com
+- 🌐 Website and blog: https://www.skouf.com
+- 📄 Resume: https://resume.skouf.com
 - 💼 Working at: https://seek.com.au
 - 🍳 Favourite food: Pickles!
 
@@ -27,12 +27,6 @@ More and more I'm trying to embrace fully remote, asynchronous ways of working.
 I like writing things down beacause it allows me to communicate clearly and thoughtfully.
 I find it easier to express myself concisely and clearly in writing, but I also feel that writing is more durable
 and easier to iterate on than verbal communication.
-
-You're far more likely to find me working later in the afternoon than in the early morning.
-It's rare that I'm around before 9am Australian time, and don't be surprised if you see a pull request as late as
-6 or 7pm Australian time depending on what's going on at home.
-But as I said above, I'm trying to work more asynchronously, so this info about my hours should matter less and less
-over time.
 
 Earlier in my career I hated any form of planning.
 Now planning is a lot of what I do.
@@ -91,6 +85,7 @@ Maybe it just took a sport completely divorced from my home country and culture 
 
 My 3D printing is pretty rusty, but it's something I've tinkered with in the past and hope to again.
 
-I like taking photos, though I'm not particularly good at it, and can never seem to get around to editing them.
+I like taking photos, and they usually go straight from my camera to [Instagram](https://www.instagram.com/nskoufis/).
+This has been fantastic cure for my chronic inability to get around to editing RAWs.
 
 I have a cute black and white tuxedo cat named Sofia who I love very much ❤️
