@@ -16,12 +16,6 @@ I'm currently working as a senior staff engineer within the Engineering Platform
 We're working on a new continuous delivery platform to make developers at SEEK more efficient, and
 to make our services more secure, more resilient and cheaper.
 
-## What I'm working on
-
-I'm currently working as a senior staff engineer within the Engineering Platforms group at SEEK.
-We're working on a new continuous delivery platform to make developers at SEEK more efficient, and
-to make our services more secure, more resilient and cheaper.
-
 ## How I like to work
 
 More and more I'm trying to embrace fully remote, asynchronous ways of working.
