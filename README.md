@@ -43,7 +43,7 @@ A short list of stuff I've done deep dives into:
 - Coffee
 - Home-milled flour for bread or pasta making
 - Lacto fermentation
-- Cured fish products (tuna bacon, gravlax)
+- Cured fish products (tuna bacon, gravlax, smoked salmon)
 
 I never really was a sports guy, but now I try and watch Vancouver Canucks games.
 Maybe it just took a sport completely divorced from my home country and culture to get me interested?
