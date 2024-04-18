@@ -1,20 +1,13 @@
 # Hey 👋
 
-I'm Nik, a software developer from Melbourne, Australia.
+I'm Nik, a software developer based in Vancouver, Canada. Originally from Melbourne, Australia, I moved to Canada in April of 2024.
 
 ## General info
 
 - 🧔 Pronouns: he/him
 - 🌐 Website and blog: https://www.skouf.com
 - 📄 Resume: https://resume.skouf.com
-- 💼 Working at: https://seek.com.au
 - 🍳 Favourite food: Pickles!
-
-## What I'm working on
-
-I'm currently working as a senior staff engineer within the Engineering Platforms group at SEEK.
-We're working on a new continuous delivery platform to make developers at SEEK more efficient, and
-to make our services more secure, more resilient and cheaper.
 
 ## How I like to work
 
@@ -48,9 +41,9 @@ A short list of stuff I've done deep dives into:
 - Cocktails
 - Carbonation
 - Coffee
-- Bread and milling your own flour
+- Home-milled flour for bread or pasta making
 - Lacto fermentation
-- Cured fish products (tuna bacon)
+- Cured fish products (tuna bacon, gravlax)
 
 I never really was a sports guy, but now I try and watch Vancouver Canucks games.
 Maybe it just took a sport completely divorced from my home country and culture to get me interested?
